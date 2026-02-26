@@ -11,6 +11,7 @@ Assim, todo mundo que trabalhar no projeto consegue entender rapidinho o que mud
 
 ## Por que isso é importante?
 
+:)
 * Para facilitar o entendimento das mudanças feitas no código.
 * Para ajudar outras pessoas (e você mesmo) a revisar o que foi feito.
 * Para gerar automaticamente um resumo das novidades e correções do projeto (chamado “changelog”).
