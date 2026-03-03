@@ -31,7 +31,7 @@ Além disso, a atividade tem o objetivo de trabalhar o uso de **GitFlow** no des
      - Qualquer outra informação importante sobre o funcionamento do jogo.
 
 4. **Entrega:**
-   - O repositório deve ser compartilhado no GitHub e a dupla deve enviar o link para o repositório para o email **ledsouza@senacrs.com.br** com o assunto 
+   - O repositório deve ser compartilhado no GitHub e a dupla deve enviar o link para o repositório para o email **ledsouza@senacrs.com.br** com o assunto **GameFlow** e com os nomes completos da dupla no corpo do email, junto com o link do repositório.
    - Certifique-se de que todas as funcionalidades do jogo estejam implementadas e que o jogo esteja funcional no terminal.
    - A documentação (README) deve ser clara e objetiva.
 
